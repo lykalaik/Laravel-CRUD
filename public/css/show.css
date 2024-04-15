@@ -1,0 +1,14 @@
+/* show.css */
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+p {
+    margin: 20px 0;
+    font-size: 18px;
+}
+
+.btn {
+    margin-right: 10px;
+}
